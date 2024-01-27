@@ -1,0 +1,27 @@
+#cv-template{
+    display: none;
+}
+.myimage{
+    /* border: 1px solid red; */
+    border-radius: 50%;
+    width: 200px;
+}
+.background{
+    background-color: aqua;
+}
+#nameo{
+    background-color: coral;
+}
+#aca{
+    background-color: coral;
+}
+#wor{
+    background-color: coral;
+}
+#gem{
+    /* background- red green blue); */
+background-color: coral;
+
+}
+
+
